@@ -81,7 +81,7 @@ function getInput(cmdInput, args) {
 			if (error){
 				console.log(error + "\n");
 			}
-		}
+		})
 		else { 
 			console.log('')
                 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
